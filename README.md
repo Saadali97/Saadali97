@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Ali</h1>
-<h3 align="center">🚀 Data Scientist | 📊 Data Analyst | 🐍 Python | SQL | Excel | Tableau</h3>
+<h3 align="center">🚀 Data Scientist | 📊 Data Analyst | 🐍 Python | SQL | Excel | Power BI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+%2C+I'm+Saad+Ali!;Data+Scientist+%26+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Tableau;Turning+Data+into+Insights!" alt="Typing SVG" />
