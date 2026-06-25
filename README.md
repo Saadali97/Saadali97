@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 I am a **Data Scientist / Analyst** with a passion for   turning raw data into clear, actionable insights.
-I work with **Python, SQL, Excel, and Tableau** to analyze data, build reports, and support data-driven decisions.
+I work with **Python, SQL, Excel,** to analyze data, build reports, and support data-driven decisions.
 
 🔎 I enjoy solving problems with data and exploring new tools in analytics.
 ⚡ Always learning and improving my skills in data analysis and visualization.
